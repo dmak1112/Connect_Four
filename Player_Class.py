@@ -1,4 +1,4 @@
-# name: Dimitri Makrigiorgos
+# Dimitri Makrigiorgos
 
 from Board_Class import Board
 
